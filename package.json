@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/LuneleIven/TruckBuldge/issues"
   },
-  "homepage": "https://github.com/LuneleIven/TruckBuldge#readme"
+  "homepage": "https://github.com/LuneleIven/TruckBuldge#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
