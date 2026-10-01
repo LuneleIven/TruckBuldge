@@ -3,6 +3,7 @@ const app = express();
 const port = 3000;
 
 app.use(express.json());
+app.use(express.static('public'));
 
 // In-memory array to act as a database
 let expenses = [];
